@@ -29,16 +29,9 @@ To run this application you can follow these few steps:
 
 
 
-## Authors
+## Author
 -Amro Abulaban
 
--Tariq Quraan
-
--Abdelrahim Abu Alrob
-
--Seema Sbouh
-
--Fanan herzallah
 
 
 
